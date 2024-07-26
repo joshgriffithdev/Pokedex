@@ -1,0 +1,39 @@
+body {
+    justify-content: center;
+    text-align: center;
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+  
+#form {
+    padding-bottom: 10rem;
+}
+  
+#title {
+    padding-bottom: 5rem;
+    color: white;
+}
+  
+#textLabel {
+    padding-right: 0.2rem;
+    padding-left: 1rem;
+    color: white;
+}
+  
+#typeLabel {
+    padding-right: 0.2rem;
+    padding-left: 1rem;
+    color: white;
+}
+  
+#weaknessLabel {
+    padding-right: 0.2rem;
+    padding-left: 1rem;
+    color: white;
+}
+  
+#submitButton {
+    padding-left: 1rem;
+}
+  
+  
